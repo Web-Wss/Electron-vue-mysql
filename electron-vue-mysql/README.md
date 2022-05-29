@@ -6,13 +6,13 @@
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:9080
-npm run dev
+yarn run dev
 
 # build electron application for production
-npm run build
+yarn run build
 
 
 ```
