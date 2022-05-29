@@ -20,14 +20,9 @@
 
 ## 应用截图：
 
-![1](D:\Github Project\Electron-vue-mysql\1.png)
-
-![2](D:\Github Project\Electron-vue-mysql\2.png)
-
-![3](D:\Github Project\Electron-vue-mysql\3.png)
-
-![4](D:\Github Project\Electron-vue-mysql\4.png)
-
-![5](D:\Github Project\Electron-vue-mysql\5.png)
-
-![6](D:\Github Project\Electron-vue-mysql\6.png)
+![1](https://github.com/Web-Wss/Electron-vue-mysql/blob/main/1.png)
+![2](https://github.com/Web-Wss/Electron-vue-mysql/blob/main/2.png)
+![3](https://github.com/Web-Wss/Electron-vue-mysql/blob/main/3.png)
+![4](https://github.com/Web-Wss/Electron-vue-mysql/blob/main/4.png)
+![5](https://github.com/Web-Wss/Electron-vue-mysql/blob/main/5.png)
+![6](https://github.com/Web-Wss/Electron-vue-mysql/blob/main/6.png)
